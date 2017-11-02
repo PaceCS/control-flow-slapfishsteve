@@ -3,8 +3,8 @@ function evenOdd(n) {
     // First remind the user what number they entered
     console.log();
 
-    // Determine whether the number is even
-    if () {
+    // Now fill in the condition to determine whether the number is even
+    if (/* Put condition here */) {
         console.log();
     } else {
         console.log();
