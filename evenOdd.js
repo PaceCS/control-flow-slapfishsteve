@@ -5,9 +5,11 @@ function evenOdd(n) {
 
     // Now fill in the condition to determine whether the number is even
     if (/* Put condition here */) {
-        console.log();
+        // If it satisfies the condition, then give the user the appropriate response
+        console.log(/* Put response here */);
     } else {
-        console.log();
+        // Otherwise, give the alternative response
+        console.log(/* Put respose here */);
     }
 }
 
