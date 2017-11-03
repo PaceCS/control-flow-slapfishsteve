@@ -1,7 +1,7 @@
-// evenOdd takes an input n and determines if it is an even number
-function evenOdd(n) {
+// evenOdd takes an input userInput and determines if it is an even number
+function evenOdd(userInput) {
     // First remind the user what number they entered
-    console.log();
+    console.log(/*You will need to log the appropriate reminder here - remember to use the variable userInput*/);
 
     // Now fill in the condition to determine whether the number is even
     if (/* Put condition here */) {
