@@ -14,7 +14,9 @@ function evenOdd(userInput) {
 }
 
 
-
+//Try out your function here.
+evenOdd(4);
+evenOdd(5)
 
 
 
@@ -44,7 +46,7 @@ console.log = function log(d) {
     out.push(d);
 };
 evenOdd(2);
-printme('Testing...');
+printme('\n Testing...');
 printme(`\t did you properly return the user input?\t ${out[0] == 'You entered 2.'} `);
 const a = [3, 4];
 for (let i = 0; i < a.length; i += 1) {
