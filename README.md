@@ -1,6 +1,6 @@
 # evenOdd()
 
-In this assignment, you will be creating a function **evenOdd**.  The input to **evenOdd** will be a number.  Your goal is to examine this input and determine whether it is even or odd.  You will then print the input to the console and whether the input is even or odd.
+In this assignment, the first function that you will be creating is **evenOdd**.  The input to **evenOdd** will be a number.  Your goal is to examine this input and determine whether it is even or odd.  You will then print the input to the console and whether the input is even or odd.
 
 ### Examples:
 
