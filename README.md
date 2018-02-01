@@ -54,7 +54,7 @@ In your logic worksheets, you learned how to check if a number is divisible by a
 
 # evenOddExtended()
 
-In this assignment, you will be creating a function **evenOddExtended**.  The input to **evenOddExtended** will be a number.  Your goal is to examine this input and determine whether it is even or odd.  However, before you do that, you first need to check that the input is a positive number.  You will then print the input to the console and whether the input is even or odd.
+Next, you will be creating a function **evenOddExtended**.  The input to **evenOddExtended** will be a number.  Your goal is to examine this input and determine whether it is even or odd.  However, before you do that, you first need to check that the input is a positive number.  You will then print the input to the console and whether the input is even or odd.
 
 ### Examples:
 
@@ -136,7 +136,7 @@ parseInt("Hi") \\ false
 
 # multiplesCheck()
 
-In this assignment, you will be creating a function **multiplesCheck**.  The input to **multiplesCheck** will be a number.  Your goal is to examine this input and determine whether it is a multiple of 3, a multiple of 5, or neither.  You will then print the input to the console and whether the input is a multiple of 3, a multiple of 5, both, or neither.
+Lastly, you will be creating a function **multiplesCheck**.  The input to **multiplesCheck** will be a number.  Your goal is to examine this input and determine whether it is a multiple of 3, a multiple of 5, or neither.  You will then print the input to the console and whether the input is a multiple of 3, a multiple of 5, both, or neither.
 
 ### Examples:
 
