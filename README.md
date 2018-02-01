@@ -34,13 +34,20 @@ Your number is odd!
 In your logic worksheets, you learned about how to check if a number is divisble by another number.  This was done using the remainder operator `%`.  Using this operator allows you to write `n % d` which gives the remainder when n is divided by d.  Some examples are below.
 
 ```
-4 % 2 \\ 0
-3 % 2 \\ 1
-10 % 2 \\ 0
-57 % 2 \\ 1
-10 % 3 \\ 1
-17 % 5 \\ 2
-18 % 5 \\ 3
+4 % 2
+\\ The result of the above expression would be 0.
+3 % 2
+\\ The result of the above expression would be 1.
+10 % 2
+\\ The result of the above expression would be 0.
+57 % 2
+\\ The result of the above expression would be 1.
+10 % 3
+\\ The result of the above expression would be 1.
+17 % 5
+\\ The result of the above expression would be 2.
+18 % 5
+\\ The result of the above expression would be 3.
 ```
 
 
