@@ -31,7 +31,7 @@ Your number is odd!
 
 ### Helpful Tips:
 
-In your logic worksheets, you learned about how to check if a number is divisble by another number.  This was done using the remainder operator `%`.  Using this operator allows you to write `n % d` which gives the remainder when n is divided by d.  Some examples are below.
+In your logic worksheets, you learned how to check if a number is divisible by another number.  This was done using the remainder operator `%`.  Using this operator allows you to write `n % d` which gives the remainder when n is divided by d.  Some examples are below.
 
 ```
 4 % 2
