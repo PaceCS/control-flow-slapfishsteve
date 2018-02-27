@@ -130,8 +130,8 @@ To check whether your input is an integer, you will use the Number.isInteger() f
 ```
 Number.isInteger(3) \\ true
 Number.isInteger(-3) \\ true
-parseInt(3.1) \\ false
-parseInt("Hi") \\ false
+Number.isInteger(3.1) \\ false
+Number.isInteger("Hi") \\ false
 ```
 
 # multiplesCheck()
