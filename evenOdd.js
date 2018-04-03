@@ -4,12 +4,12 @@ function evenOdd(userInput) {
     console.log('You entered ' + userInput + '.');
 
     // Now fill in the condition to determine whether the number is even
-    if (/* Put condition here */) {
+    if (userInput%2==0) {
         // If it satisfies the condition, then give the user the appropriate response
-        console.log(/* Put response here */);
+        console.log('Your number is even!');
     } else {
         // Otherwise, give the alternative response
-        console.log(/* Put respose here */);
+        console.log('Your number is odd!');
     }
 }
 
